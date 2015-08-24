@@ -1,0 +1,223 @@
+@charset "utf-8";
+/* CSS Document */
+
+<!--  ----------------------------------------TABLES----------------------------------------------------------------- -->
+.tableCSS {
+	margin:0px;padding:0px;
+	width:100%;
+	border:1px solid #ffffff;
+	
+	-moz-border-radius-bottomleft:0px;
+	-webkit-border-bottom-left-radius:0px;
+	border-bottom-left-radius:0px;
+	
+	-moz-border-radius-bottomright:0px;
+	-webkit-border-bottom-right-radius:0px;
+	border-bottom-right-radius:0px;
+	
+	-moz-border-radius-topright:0px;
+	-webkit-border-top-right-radius:0px;
+	border-top-right-radius:0px;
+	
+	-moz-border-radius-topleft:0px;
+	-webkit-border-top-left-radius:0px;
+	border-top-left-radius:0px;
+}.tableCSS table{
+	width:100%;
+	height:100%;
+	margin:0px;padding:0px;
+}.tableCSS tr:last-child td:last-child {
+	-moz-border-radius-bottomright:0px;
+	-webkit-border-bottom-right-radius:0px;
+	border-bottom-right-radius:0px;
+}
+.tableCSS table tr:first-child td:first-child {
+	-moz-border-radius-topleft:0px;
+	-webkit-border-top-left-radius:0px;
+	border-top-left-radius:0px;
+}
+.tableCSS table tr:first-child td:last-child {
+	-moz-border-radius-topright:0px;
+	-webkit-border-top-right-radius:0px;
+	border-top-right-radius:0px;
+}.tableCSS tr:last-child td:first-child{
+	-moz-border-radius-bottomleft:0px;
+	-webkit-border-bottom-left-radius:0px;
+	border-bottom-left-radius:0px;
+}.tableCSS tr:hover td{
+	background-color:#e5e5e5;
+}
+.tableCSS td{
+	vertical-align:middle;
+	
+	background-color:#b2b2b2;
+
+	border:1px solid #ffffff;
+	border-width:0px 1px 1px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:12px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#000000;
+}.tableCSS tr:last-child td{
+	border-width:0px 1px 0px 0px;
+}.tableCSS tr td:last-child{
+	border-width:0px 0px 1px 0px;
+}.tableCSS tr:last-child td:last-child{
+	border-width:0px 0px 0px 0px;
+}
+.tableCSS tr:first-child td{
+		background:-o-linear-gradient(bottom, #4c4c4c 5%, #000000 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4c4c4c), color-stop(1, #000000) );
+	background:-moz-linear-gradient( center top, #4c4c4c 5%, #000000 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#4c4c4c", endColorstr="#000000");	background: -o-linear-gradient(top,#4c4c4c,000000);
+
+	background-color:#4c4c4c;
+	border:0px solid #ffffff;
+	text-align:left;
+	border-width:0px 0px 1px 1px;
+	font-size:14px;
+	font-family:Arial;
+	font-weight:bold;
+	color:#ffffff;
+}
+.tableCSS tr:first-child:hover td{
+	background:-o-linear-gradient(bottom, #4c4c4c 5%, #000000 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4c4c4c), color-stop(1, #000000) );
+	background:-moz-linear-gradient( center top, #4c4c4c 5%, #000000 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#4c4c4c", endColorstr="#000000");	background: -o-linear-gradient(top,#4c4c4c,000000);
+
+	background-color:#4c4c4c;
+}
+.tableCSS tr:first-child td:first-child{
+	border-width:0px 0px 1px 0px;
+}
+.tableCSS tr:first-child td:last-child{
+	border-width:0px 0px 1px 1px;
+}.tableCSS td:first-child{
+	width:10px;
+}
+<!--  ----------------------------------------------------------------------------------------------------------------- -->
+
+.table2CSS {
+	margin:0px;padding:0px;
+	width:100%;
+	border:1px solid #ffffff;
+	
+	-moz-border-radius-bottomleft:0px;
+	-webkit-border-bottom-left-radius:0px;
+	border-bottom-left-radius:0px;
+	
+	-moz-border-radius-bottomright:0px;
+	-webkit-border-bottom-right-radius:0px;
+	border-bottom-right-radius:0px;
+	
+	-moz-border-radius-topright:0px;
+	-webkit-border-top-right-radius:0px;
+	border-top-right-radius:0px;
+	
+	-moz-border-radius-topleft:0px;
+	-webkit-border-top-left-radius:0px;
+	border-top-left-radius:0px;
+}.table2CSS table{
+	width:100%;
+	height:100%;
+	margin:0px;padding:0px;
+}.table2CSS tr:last-child td:last-child {
+	-moz-border-radius-bottomright:0px;
+	-webkit-border-bottom-right-radius:0px;
+	border-bottom-right-radius:0px;
+}
+.table2CSS table tr:first-child td:first-child {
+	-moz-border-radius-topleft:0px;
+	-webkit-border-top-left-radius:0px;
+	border-top-left-radius:0px;
+}
+.table2CSS table tr:first-child td:last-child {
+	-moz-border-radius-topright:0px;
+	-webkit-border-top-right-radius:0px;
+	border-top-right-radius:0px;
+}.table2CSS tr:last-child td:first-child{
+	-moz-border-radius-bottomleft:0px;
+	-webkit-border-bottom-left-radius:0px;
+	border-bottom-left-radius:0px;
+}
+.table2CSS td{
+	vertical-align:middle;
+	
+	background-color:#b2b2b2;
+
+	border:1px solid #ffffff;
+	border-width:0px 1px 1px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:12px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#000000;
+}.table2CSS tr:last-child td{
+	border-width:0px 1px 0px 0px;
+}.table2CSS tr td:last-child{
+	border-width:0px 0px 1px 0px;
+}.table2CSS tr:last-child td:last-child{
+	border-width:0px 0px 0px 0px;
+}
+.table2CSS tr:first-child td{
+		background:-o-linear-gradient(bottom, #4c4c4c 5%, #000000 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4c4c4c), color-stop(1, #000000) );
+	background:-moz-linear-gradient( center top, #4c4c4c 5%, #000000 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#4c4c4c", endColorstr="#000000");	background: -o-linear-gradient(top,#4c4c4c,000000);
+
+	background-color:#4c4c4c;
+	border:0px solid #ffffff;
+	text-align:left;
+	border-width:0px 0px 1px 1px;
+	font-size:14px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+	color:#ffffff;
+}
+.table2CSS tr:first-child:hover td{
+	background:-o-linear-gradient(bottom, #4c4c4c 5%, #000000 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4c4c4c), color-stop(1, #000000) );
+	background:-moz-linear-gradient( center top, #4c4c4c 5%, #000000 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#4c4c4c", endColorstr="#000000");	background: -o-linear-gradient(top,#4c4c4c,000000);
+
+	background-color:#4c4c4c;
+}
+.table2CSS tr:first-child td:first-child{
+	border-width:0px 0px 1px 0px;
+}
+.table2CSS tr:first-child td:last-child{
+	border-width:0px 0px 1px 1px;
+}.table2CSS td:first-child{
+	width:10px;
+}
+
+<!--  ----------------------------------------BUTTONS----------------------------------------------------------------- -->
+form input[type=submit]:hover{}
+form input[type=submit],
+.botao{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	font-size: 12.5px;
+	letter-spacing:1px;
+	color: #fff;
+	background-color: #adadad;   
+	border: 0px;
+	padding: 6px;
+	padding-left: 12px;
+	padding-right: 12px;
+	margin-left: 0px;
+	}
+.botao:hover{
+	color: #fff;
+	text-decoration: none;
+	background-color: #dd2867;
+	}
+<!--  --------------------------------------------------------CSS text field -------------------------------------------------- -->
+
+form input[type=text]{}
+.camptxt{
+	width:380px;
+	border-radius:4px;
+	}
+
+
